@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "employeeId": "E2301",
+    "password": "Welcome@5432109"
+  },
+  {
+    "id": 2,
+    "employeeId": "E1856",
+    "password": "password"
+  },
+  {
+    "id": 3,
+    "employeeId": "E1406",
+    "password": "e1406"
+  }
+]

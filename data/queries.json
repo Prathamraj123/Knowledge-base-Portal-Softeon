@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "How to configure the project deployment settings?",
+    "details": "I'm trying to set up the deployment pipeline but can't find the right settings in the project configuration.",
+    "answer": "Go to Project Settings > Deployment > Configuration. There you'll find all the necessary settings. Make sure to set the environment variables and deployment targets correctly.",
+    "topic": "technical",
+    "employeeId": "EMP10254",
+    "date": "2025-04-04T17:15:48.815Z"
+  },
+  {
+    "id": 2,
+    "title": "What's the process for requesting time off?",
+    "details": "I need to take some vacation days next month but I'm not sure about the correct procedure.",
+    "answer": "Submit your request through the HR portal at least 2 weeks in advance. Navigate to My Profile > Time Off > Request Time Off. Your manager will receive an automatic notification to approve your request.",
+    "topic": "hr",
+    "employeeId": "EMP10842",
+    "date": "2025-05-04T17:15:48.815Z"
+  }
+]
